@@ -7,3 +7,41 @@
     margin: 20px auto 0px auto;
     border: 1px solid #496077;
 }
+
+.header {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.header_tb1 {
+    width: 100%;
+}
+
+.logo_tb1 {
+    width: 214px;
+    height: 100%;
+    border: 4px solid #FFFFFF;
+    background-color: #000000;
+}
+
+.logo {
+    width: 214px;
+    height: 214px;
+}
+
+.logo_tb2 {
+    height: 213px;
+}
+
+.logo_tb3 {
+    width: 100%;
+    border-collapse: collapse;
+    height: 100%;
+    border: 3px solid #FFFFFF;
+    background-color: #000000;
+}
+
+.logo_tb4 {
+    height: 170px;
+}

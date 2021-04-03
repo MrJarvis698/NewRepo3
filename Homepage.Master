@@ -12,6 +12,27 @@
 <body>
     <form id="form1" runat="server">
         <div class="page">
+            <div class="header">
+                <table class="header_tb1">
+                    <tr>
+                        <td class="logo_tb1">
+                            <img class="logo" src="App_Theme/dark-logo.jpg" /></td>
+                        <td class="logo_tb2">
+                            <table class="logo_tb3">
+                                <tr>
+                                    <td class="logo_tb4"></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+
+                <br />
+
+            </div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
         </div>
