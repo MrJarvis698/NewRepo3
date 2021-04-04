@@ -39,18 +39,18 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <table class="header_tb1">
-                                            <tr>
-                                                <td class="auto-style3"></td>
-                                                <td class="auto-style3">
-                                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                                                        <div class="topnav">
-                                                            <a href="#">Signup</a> <a href="#">Login</a> <a href="Home.aspx">Home</a>
-                                                        </div>
-                                                    </asp:ContentPlaceHolder>
-                                                </td>
-                                            </tr>
-                                        </table>
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">                                    
+                                                <table class="header_tb1">
+                                                    <tr>
+                                                        <td class="auto-style3"></td>
+                                                        <td class="auto-style3">
+                                                            <div class="topnav">
+                                                                <a href="#">Signup</a> <a href="#">Login</a> <a href="Home.aspx">Home</a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                        </asp:ContentPlaceHolder>
                                     </td>
                                 </tr>
                             </table>
