@@ -50,3 +50,21 @@
 .table_1_par {
     width: 100%;
 }
+
+.topnav {
+    overflow: hidden;
+    background-color: #000000;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 4px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #373535;
+}
