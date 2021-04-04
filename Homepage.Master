@@ -29,9 +29,16 @@
                         </td>
                     </tr>
                 </table>
-            </div>
+                <table class="table_1_par">
+                    <tr>
+                        <td class="table_1_par_1_child">&nbsp;</td>
+                        <td class="table_1_par_2_child">
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
     </form>
 </body>
