@@ -50,14 +50,3 @@
 .table_1_par {
     width: 100%;
 }
-
-.table_1_par_1_child {
-    border: 5px solid #FFFFFF;
-    background-color: #000000;
-    width: 213px;
-}
-
-.table_1_par_2_child {
-    border: 5px solid #FFFFFF;
-    background-color: #000000;
-}
